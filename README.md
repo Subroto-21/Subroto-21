@@ -8,7 +8,7 @@
 
 ### About
 
-Full-stack developer leaning toward AI-integrated systems — things that actually reason, generate, and do useful work. I build my own tools and occasionally launch them.
+Full-stack developer leaning toward AI-integrated systems - things that actually reason, generate, and do useful work. I build my own tools and occasionally launch them.
 
 ---
 
