@@ -1,6 +1,6 @@
 # Subroto
 
-**Full-stack developer** · Building products at the intersection of AI and web.
+**Full-stack developer** · Web apps, AI tooling, and test automation.
 
 📍 Goa, India
 
@@ -8,7 +8,7 @@
 
 ### About
 
-Full-stack developer leaning toward AI-integrated systems - things that actually reason, generate, and do useful work. I build my own tools and occasionally launch them.
+I'm a full-stack developer working mostly in TypeScript and Python. Lately that means building AI-assisted tools, like generating test cases with LLMs, and the automation and web apps around them. I like owning a feature end to end, from the database to the UI. On the side, I build small tools of my own and ship the ones that hold up.
 
 ---
 
@@ -36,8 +36,11 @@ Full-stack developer leaning toward AI-integrated systems - things that actually
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
+**Testing**
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+---
 
 ### Connect
 
